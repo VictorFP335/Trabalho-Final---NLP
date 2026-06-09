@@ -9,7 +9,15 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 
 ---
-
+## Trabalho Final da Disciplina de Processamneto de Linguagem Natural do Curos de Ciencia de Dados e Inteligência Artificial
+### Docente
+FERNANDO HENRIQUE CARVALHO SILVA
+---
+###Integrantes 
+PAULO EMANUEL JOSÉ DA SILVA RA:  
+VICTOR FURUMOTO PUTTOMATTI RA: 23007606
+VINICIUS MARTINS DOS SANTOS RA: 22901219
+---
 ##  Sobre o Projeto
 
 Este repositório reproduz o pipeline completo do paper de Yang et al. (2024) sobre detecção de toxicidade em chats de jogos multiplayer online (For Honor e Rainbow Six Siege da Ubisoft) e propõe **três melhorias concretas** à metodologia original:
