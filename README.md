@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 Este repositório reproduz o pipeline completo do paper de Yang et al. (2024) sobre detecção de toxicidade em chats de jogos multiplayer online (For Honor e Rainbow Six Siege da Ubisoft) e propõe **três melhorias concretas** à metodologia original:
 
@@ -22,7 +22,7 @@ Este repositório reproduz o pipeline completo do paper de Yang et al. (2024) so
 
 ---
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 toxicity-gaming-study/
@@ -72,7 +72,7 @@ toxicity-gaming-study/
 
 ---
 
-## ⚡ Início Rápido
+##  Início Rápido
 
 ### Pré-requisitos
 
@@ -121,7 +121,7 @@ jupyter notebook notebooks/toxicity_gaming_study.ipynb
 
 ---
 
-## 📓 Seções do Notebook
+##  Seções do Notebook
 
 | Seção | Descrição |
 |-------|-----------|
@@ -142,7 +142,7 @@ jupyter notebook notebooks/toxicity_gaming_study.ipynb
 
 ---
 
-## 📊 Resultados Comparativos
+##  Resultados Comparativos
 
 | Modelo | F1 (For Honor) | F1 (Rainbow Six) | Multilíngue | Tempo Inf. |
 |--------|:--------------:|:----------------:|:-----------:|:----------:|
@@ -157,7 +157,7 @@ jupyter notebook notebooks/toxicity_gaming_study.ipynb
 
 ---
 
-## 🔑 Configuração da Perspective API (Opcional)
+##  Configuração da Perspective API (Opcional)
 
 Para usar a Perspective API real ao invés da simulação:
 
@@ -170,7 +170,7 @@ Para usar a Perspective API real ao invés da simulação:
 
 ---
 
-## 📦 Dependências Principais
+##  Dependências Principais
 
 | Biblioteca | Versão | Uso |
 |------------|--------|-----|
@@ -187,7 +187,7 @@ Para usar a Perspective API real ao invés da simulação:
 
 ---
 
-## ⚠️ Nota sobre os Dados
+##  Nota sobre os Dados
 
 Os dados reais de chat são propriedade da Ubisoft e **não estão disponíveis publicamente**. Este repositório utiliza um **dataset sintético** que respeita exatamente as proporções reportadas na Tabela 2 do paper original (distribuição por categoria e jogo).
 
@@ -197,7 +197,7 @@ Para uso com dados reais, consulte:
 
 ---
 
-## 📖 Referência
+##  Referência
 
 ```bibtex
 @article{yang2024gameon,
@@ -215,13 +215,13 @@ Para uso com dados reais, consulte:
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-## 🤝 Contribuições
+##  Contribuições
 
 Contribuições são bem-vindas! Abra uma *issue* ou envie um *pull request*.
 
