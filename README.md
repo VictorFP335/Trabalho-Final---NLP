@@ -1,6 +1,8 @@
 # 🎮 Game On, Hate Off — Detecção de Toxicidade em Jogos Online
 
 Projeto desenvolvido para a disciplina de **Processamento de Linguagem Natural** com base no artigo:
+> Yang, Z., Grenon-Godbout, N., & Rabbany, R. (2024). *Game on, Hate off: A Study of Toxicity in Online Multiplayer Environments.* ACM Games: Research and Practice, 2(2), Article 14. https://doi.org/10.1145/3645360
+---
 
 ### PROFESSOR
 FERNANDO HENRIQUE CARVALHO SILVA
@@ -9,8 +11,6 @@ FERNANDO HENRIQUE CARVALHO SILVA
 #### PAULO EMANUEL JOSÉ DA SILVA RA: 23008332
 #### VICTOR FURUMOTO PUTTOMATTI RA: 23007606
 #### VINICIUS MARTINS DOS SANTOS RA: 22901219
-> Yang, Z., Grenon-Godbout, N., & Rabbany, R. (2024). *Game on, Hate off: A Study of Toxicity in Online Multiplayer Environments.* ACM Games: Research and Practice, 2(2), Article 14. https://doi.org/10.1145/3645360
-
 ---
 
 ## 📋 Sobre o projeto
