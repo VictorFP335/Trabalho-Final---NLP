@@ -1,4 +1,4 @@
-# 🎮 Game On, Hate Off — Detecção de Toxicidade em Jogos Online
+#  Game On, Hate Off — Detecção de Toxicidade em Jogos Online
 
 Projeto desenvolvido para a disciplina de **Processamento de Linguagem Natural** com base no artigo:
 > Yang, Z., Grenon-Godbout, N., & Rabbany, R. (2024). *Game on, Hate off: A Study of Toxicity in Online Multiplayer Environments.* ACM Games: Research and Practice, 2(2), Article 14. https://doi.org/10.1145/3645360
@@ -15,7 +15,7 @@ Projeto desenvolvido como trabalho final da disciplina de Processamento de Lingu
 #### VINICIUS MARTINS DOS SANTOS RA: 22901219
 ---
 
-## 📋 Sobre o projeto
+##  Sobre o projeto
 
 Este trabalho segue a **modalidade de extensão** da abordagem original, reproduzindo os experimentos centrais do paper e propondo três melhorias:
 
@@ -40,7 +40,7 @@ Este trabalho segue a **modalidade de extensão** da abordagem original, reprodu
 
 ---
 
-## 🗂️ Estrutura do repositório
+##  Estrutura do repositório
 
 ```
 game-on-hate-off/
@@ -61,7 +61,7 @@ game-on-hate-off/
 
 ---
 
-## ⚙️ Como executar
+##  Como executar
 
 ### 1. Pré-requisitos
 
@@ -105,7 +105,7 @@ Ou abra no [Google Colab](https://colab.research.google.com/) — sem necessidad
 
 ---
 
-## 📦 Dependências
+##  Dependências
 
 Veja `requirements.txt`. Principais bibliotecas:
 
@@ -117,7 +117,7 @@ Veja `requirements.txt`. Principais bibliotecas:
 
 ---
 
-## 🤖 Modelos utilizados (todos públicos, sem API key)
+##  Modelos utilizados (todos públicos, sem API key)
 
 | Modelo HuggingFace | Papel no projeto |
 |--------------------|-----------------|
@@ -127,7 +127,7 @@ Veja `requirements.txt`. Principais bibliotecas:
 
 ---
 
-## 📚 Referência ao artigo original
+##  Referência ao artigo original
 
 ```
 @article{yang2024gameonhateoff,
