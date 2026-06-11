@@ -4,10 +4,12 @@ Projeto desenvolvido para a disciplina de **Processamento de Linguagem Natural**
 > Yang, Z., Grenon-Godbout, N., & Rabbany, R. (2024). *Game on, Hate off: A Study of Toxicity in Online Multiplayer Environments.* ACM Games: Research and Practice, 2(2), Article 14. https://doi.org/10.1145/3645360
 ---
 
-### PROFESSOR
+### PROFESSOR DA DISCIPLINA
 FERNANDO HENRIQUE CARVALHO SILVA
 
-### Integrantes do grupo
+## 👥 Autores
+
+Projeto desenvolvido como trabalho final da disciplina de Processamento de Linguagem Natural.
 #### PAULO EMANUEL JOSÉ DA SILVA RA: 23008332
 #### VICTOR FURUMOTO PUTTOMATTI RA: 23007606
 #### VINICIUS MARTINS DOS SANTOS RA: 22901219
@@ -143,6 +145,4 @@ Código original dos autores: https://github.com/ubisoft/ubisoft-laforge-toxbust
 
 ---
 
-## 👥 Autores
 
-Projeto desenvolvido como trabalho final da disciplina de Processamento de Linguagem Natural.
